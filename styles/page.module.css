@@ -120,6 +120,7 @@
   min-height: 100px;
   padding: 10px;
   margin: 10px auto;
+  border-radius: 3px;
 }
 
 .button{
