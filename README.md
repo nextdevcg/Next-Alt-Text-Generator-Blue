@@ -1,4 +1,4 @@
-# NEXT-ALT-TEXT-GENERATOR
+# NEXT-ALT-TEXT-GENERATOR-BLUE
 
 This Next-Alt-Text-Generator is a extended version of the [Next.js v13 NEXT-ALT-TEXT-GENERATOR](https://github.com/vercel/examples/tree/main/solutions/alt-tag-generator), but extends its fuctionality by introducing options like user input to generate alt text and upload multiple files to generate alt texts.
 
