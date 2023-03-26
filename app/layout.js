@@ -6,7 +6,7 @@ import '../styles/globals.css';
 export default function RootLayout({ children }) {
   return (
     <>
-      <html>
+      <html lang='en'>
         <title>N-A-T-G-B</title>
         <body className={signika.className}>
           {children}

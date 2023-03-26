@@ -23,7 +23,7 @@ const Multiple = () => {
       if (getData) {
         const useData = getData.data;
         arrD.push({ data: useData, fileName: filenameSet[i] });
-        setLoading(`Got Data for File No. ${i + 1}`);
+        setLoading(`Removed File No. ${i + 1} and Got Data for File No. ${i + 1}`);
       }
     }
     setIncomingAlt(arrD);
